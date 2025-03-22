@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\bin\Debug\net9.0\Sydoky2.exe
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\bin\Debug\net9.0\Sydoky2.deps.json
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\bin\Debug\net9.0\Sydoky2.runtimeconfig.json
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\bin\Debug\net9.0\Sydoky2.dll
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\bin\Debug\net9.0\Sydoky2.pdb
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.AssemblyInfo.cs
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.dll
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\refint\Sydoky2.dll
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.pdb
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\Sydoky2.genruntimeconfig.cache
+C:\Users\admin\Desktop\Лаби\Sydoky2\Sydoky2\obj\Debug\net9.0\ref\Sydoky2.dll
